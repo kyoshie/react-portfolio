@@ -40,7 +40,7 @@ const About = () => {
               </p>
               <p>
                 When I'm not coding, you'll find me exploring new design trends, playing online games, watching movies,
-                or hanging out with my special someone.
+                or hanging out with my special someone or my friends.
               </p>
             </div>
           </div>
