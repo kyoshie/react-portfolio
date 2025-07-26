@@ -39,7 +39,7 @@ const About = () => {
                 front-end pages. I am eager to learn new trends when it comes to the field of technology and development.
               </p>
               <p>
-                When I'm not coding, you'll find me exploring new design trends, playing online games, watching movies,
+                When I'm not coding, you'll find me exploring vidoes about coding, playing online games, watching movies,
                 or hanging out with my special someone or my friends.
               </p>
             </div>
