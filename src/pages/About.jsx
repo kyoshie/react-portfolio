@@ -113,23 +113,25 @@ const About = () => {
             <h3 className="text-2xl font-bold text-white mb-8 text-center">Fun Facts About Me</h3>
             <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
               <div className="text-center">
-                <div className="text-4xl mb-4">☕</div>
-                <h4 className="font-semibold text-white mb-2">Coffee Enthusiast</h4>
+                <div className="text-4xl mb-4">🍔</div>
+                <h4 className="font-semibold text-white mb-2">Food Lover</h4>
                 <p className="text-slate-400 text-sm">
-                  I've tried over 50 different coffee blends from around the world
+                  I enjoy eating foods from Jollibee and Mcdonalds.
                 </p>
               </div>
               <div className="text-center">
                 <div className="text-4xl mb-4">🎮</div>
                 <h4 className="font-semibold text-white mb-2">Gamer</h4>
                 <p className="text-slate-400 text-sm">
-                  Strategy games help me think through complex coding problems
+                  Playing online games is my hobby and it helps me relax.
                 </p>
               </div>
               <div className="text-center">
                 <div className="text-4xl mb-4">📚</div>
                 <h4 className="font-semibold text-white mb-2">Continuous Learner</h4>
-                <p className="text-slate-400 text-sm">I read at least one tech article every day to stay updated</p>
+                <p className="text-slate-400 text-sm">
+                  I enjoy learning from tech creators and staying updated with the latest in the industry.
+                </p>
               </div>
             </div>
           </div>
