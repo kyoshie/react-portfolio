@@ -46,7 +46,7 @@ const About = () => {
           </div>
         </div>
 
-        <div className="w-full border bg-slate-800/30 border-slate-600 rounded-md backdrop-blur-sm md:h-[700px] lg:h-[500px] hover:border-blue-400 hover:shadow-[0_0_15px_#60a5fa] ltransition-all duration-300 ease-in-out">
+        <div className="w-full border bg-slate-800/30 border-slate-600 rounded-md backdrop-blur-sm h-[720px]  md:h-[700px] lg:h-[500px] hover:border-blue-400 hover:shadow-[0_0_15px_#60a5fa] ltransition-all duration-300 ease-in-out">
           <div className="p-8">
             <h3 className="text-2xl font-bold text-white mb-6">My Education</h3>
             <div className="space-y-4">
@@ -108,7 +108,7 @@ const About = () => {
             </div>
           </div>
         </div>
-        <div className="border bg-slate-800/30 border-slate-600 md:col-span-2 rounded-md backdrop-blur-sm w-full h-[560px] md:h-[250px] hover:border-blue-400 hover:shadow-[0_0_15px_#60a5fa] ltransition-all duration-300 ease-in-out">
+        <div className="border bg-slate-800/30 border-slate-600 md:col-span-2 rounded-md backdrop-blur-sm w-full h-[580px] md:h-[250px] hover:border-blue-400 hover:shadow-[0_0_15px_#60a5fa] ltransition-all duration-300 ease-in-out">
           <div className="p-8">
             <h3 className="text-2xl font-bold text-white mb-8 text-center">Fun Facts About Me</h3>
             <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
