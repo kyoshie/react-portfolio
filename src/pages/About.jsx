@@ -46,7 +46,7 @@ const About = () => {
           </div>
         </div>
 
-        <div className="w-full border bg-slate-800/30 border-slate-600 rounded-md backdrop-blur-sm h-[650px]  md:h-[700px] lg:h-[500px] hover:border-blue-400 hover:shadow-[0_0_15px_#60a5fa] ltransition-all duration-300 ease-in-out">
+        <div className="w-full border bg-slate-800/30 border-slate-600 rounded-md backdrop-blur-sm h-[620px]  md:h-[700px] lg:h-[500px] hover:border-blue-400 hover:shadow-[0_0_15px_#60a5fa] ltransition-all duration-300 ease-in-out">
           <div className="p-8">
             <h3 className="text-2xl font-bold text-white mb-6">My Education</h3>
             <div className="space-y-4">
