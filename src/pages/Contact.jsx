@@ -163,7 +163,7 @@ const Contact = () => {
                                 </div>
                                 <div>
                                     <h4 className="font-semibold text-white">Email</h4>
-                                    <p className="text-slate-400">joshua.datinguinoo@email.com</p>
+                                    <p className="text-slate-400">joshuadatinguinoo15@gmail.com</p>
                                     <p className="text-sm text-slate-500 mt-1">I'll respond within 24 hours</p>
                                 </div>
                             </div>
