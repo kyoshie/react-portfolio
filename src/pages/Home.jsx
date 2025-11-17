@@ -20,8 +20,8 @@ const techIcons = [
 ];
 
 const downloadFile = () => {
-    const fileUrl = "/datinguinoo_resume.pdf";
-    const fileName = "datinguinoo_resume.pdf";
+    const fileUrl = "/Resume_Datinguinoo.pdf";
+    const fileName = "Resume_Datinguinoo.pdf";
     const link = document.createElement("a");
     link.href = fileUrl;
     link.download = fileName;
